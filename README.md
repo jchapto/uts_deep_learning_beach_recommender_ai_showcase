@@ -9,3 +9,6 @@ https://drive.google.com/file/d/1rDE8__Yl7yHLK3Wxrrz4EsKxAxSHLDIs/view?usp=shari
 Link to the dataset used to train the model:
 https://drive.google.com/drive/folders/1dOFwlR-5Em0E34o0qYi89qe5rD1xQwrD?usp=sharing
 
+Link to the report:
+https://docs.google.com/document/d/1pZbHL1yMRn9ZDdwIblH6dc6DO8xuiuRFHG55QijwteQ/edit?usp=sharing
+
